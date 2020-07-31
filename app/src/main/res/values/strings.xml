@@ -2,4 +2,7 @@
     <string name="app_name">DesingsCustomEditText</string>
     <string name="et_email">Email</string>
     <string name="et_password">Password</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="name">Name</string>
+    <string name="title_create_new_user">Create New Count</string>
 </resources>
